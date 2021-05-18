@@ -57,3 +57,11 @@ for i1, i2, i3 in collection:
     print(i)
 
 # While loop.
+i = 0
+while i < 4:
+    # loop statement
+    i = i + 1
+MyObject = anObject()
+while myObject.isNotReady():
+    myObject.tryToGetReady()
+    

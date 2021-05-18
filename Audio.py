@@ -57,3 +57,4 @@ class Color(Enum):
     print(Color(1))
     print(Color['red'])
 
+# For all values

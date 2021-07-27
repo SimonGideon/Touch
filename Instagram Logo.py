@@ -1,6 +1,6 @@
 import turtle
 from turtle import*
-turtle.bgcolor("black")
+turtle.bgcolor('black')
 pencolor('yellow')
 width(23)
 penup()

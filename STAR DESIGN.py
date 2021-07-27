@@ -1,7 +1,7 @@
 from turtle import *
 import turtle
 col = ('yellow', 'red', 'orange', 'blue', 'white')
-t = turtle.Turtle()
+t = turtle.turtle()
 screen = turtle.screen()
 screen.bgcolor('black')
 t.speen(30)
